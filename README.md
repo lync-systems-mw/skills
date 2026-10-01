@@ -19,7 +19,3 @@ curl -s https://raw.githubusercontent.com/lync-systems-mw/skills/main/<project>/
 ```
 
 FeedLab's skills also ship from `feedlab.cloud/skills/<skill-name>/SKILL.md` (see [feedlab.cloud/ai](https://feedlab.cloud/ai)) — same content, either source works.
-
-## Adding a project
-
-This repo is public, so treat it as a shared surface: review what a skill tells an agent to do before adding it here, same as any other public-facing code. Keep anything project-specific but not meant for public eyes (internal URLs, non-public workflows) out of the `SKILL.md` body.
